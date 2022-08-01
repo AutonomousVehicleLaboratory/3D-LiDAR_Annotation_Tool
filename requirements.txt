@@ -1,0 +1,12 @@
+numpy==1.21.6
+tqdm==4.64.0
+Flask==2.0.3
+json5==0.9.8
+jsonschema==4.7.2
+fastjsonschema==2.15.3
+matplotlib
+matplotlib-inline
+pypcd
+scikit-image
+scikit-learn
+scipy
